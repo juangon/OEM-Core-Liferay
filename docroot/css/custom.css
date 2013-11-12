@@ -72,12 +72,13 @@ hr, .separator {
 }
 
 #banner {
-	background: #00aed5;
+	/*background: #00aed5;
 	position: relative;
 	margin-bottom:10px;
 	border-top:25px solid #00917c;
 	padding:30px;
 	height:50px;
+	*/
 }
 
 .journal-content-article{
