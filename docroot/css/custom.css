@@ -21,6 +21,11 @@ body {
 	min-height:100%;
 }
 
+.aui h2{
+	font-weight:300;
+	
+}
+
 .aui body{
 	/*background:#fff8e6;*/
 	
